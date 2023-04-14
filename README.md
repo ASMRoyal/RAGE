@@ -1,4 +1,4 @@
 # RAGE
-RageVersion = 0.3
+RageVersion = 0.2
 
 AbleToConnect = True
