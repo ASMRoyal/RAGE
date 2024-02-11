@@ -2,14 +2,14 @@
 Menu Version 1.4
 
 # Download
-Release: [RAGE 1.4](https://github.com/ASMRoyal/RAGE/releases)
+* Release: [RAGE 1.4](https://github.com/ASMRoyal/RAGE/releases)
+* Direct Link: [RAGE_Setup.exe](https://github.com/ASMRoyal/RAGE/releases/download/RAGE/RAGE_Setup.exe)
+
 
 # Developers
-• ASM_Royal
-
-• Sneak
-
-• Iw-u
+* 0xYZ
+* Sneak
+* Iw-u
 
 # RAGE PICS
 ![Screenshot 2024-02-08 183451](https://github.com/ASMRoyal/RAGE/assets/89786570/ced151dc-c413-4748-be4b-c436c5b2b42b)
