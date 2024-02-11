@@ -1,6 +1,9 @@
 # RAGE
 Menu Version 1.4
 
+# Download
+Release: [RAGE 1.4](https://github.com/ASMRoyal/RAGE/releases)
+
 # Developers
 • ASM_Royal
 
