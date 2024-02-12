@@ -5,6 +5,8 @@ Menu Version 1.4
 * Release: [RAGE 1.4](https://github.com/ASMRoyal/RAGE/releases)
 * Direct Link: [RAGE_Setup.exe](https://github.com/ASMRoyal/RAGE/releases/download/RAGE/RAGE_Setup.exe)
 
+# License
+* The key must be purchased [here](https://plint.mysellix.io/product/rage)
 
 # Developers
 * 0xYZ
