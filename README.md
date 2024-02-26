@@ -1,8 +1,8 @@
 # RAGE
-Menu Version 1.4
+Menu Version 1.5
 
 # Download
-* Release: [RAGE 1.4](https://github.com/ASMRoyal/RAGE/releases)
+* Release: [RAGE 1.5](https://github.com/ASMRoyal/RAGE/releases)
 * Direct Link: [RAGE_Setup.exe](https://github.com/ASMRoyal/RAGE/releases/download/RAGE/RAGE_Setup.exe)
 
 # License
